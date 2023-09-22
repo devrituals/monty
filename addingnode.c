@@ -2,7 +2,7 @@
 /**
  * addnode - add node to the head stack
  * @head: head of the stack
- * @n: new_value
+ * AUTHOR : ABDELBAR AD
  * Return: no return
 */
 void addnode(stack_t **head, int n)
