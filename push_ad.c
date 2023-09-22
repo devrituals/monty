@@ -1,8 +1,7 @@
 #include "monty.h"
 /**
  * f_push - add node to the stack
- * @head: stack head
- * AUTHOR : ABDELBAR AD
+ * @head: stack head  # AUTHOR : ABDELBAR AD
  * @counter: line_number
  * Return: no return
 */
