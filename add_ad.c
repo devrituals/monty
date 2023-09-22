@@ -1,7 +1,7 @@
 #include "monty.h"
 /**
  * f_add - adds the top two elements of the stack.
- * @head: stack head
+ * AUTHOR : ABDELBAR AD
  * @counter: line_number
  * Return: no return
 */
