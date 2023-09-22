@@ -2,6 +2,7 @@
 /**
  * f_pchar - prints the char at the top of the stack,
  * followed by a new line
+ * # AUTHOR : ABDELBAR AD
  * @head: stack head
  * @counter: line_number
  * Return: no return
