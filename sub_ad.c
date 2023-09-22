@@ -2,6 +2,7 @@
 /**
   *f_sub- sustration
   *@head: stack head
+  * # AUTHOR : ABDELBAR AD
   *@counter: line_number
   *Return: no return
  */
